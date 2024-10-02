@@ -1,0 +1,46 @@
+body{
+
+    background-image: url("beautiful-fantasy-wallpaper-ultra-hd-wallpaper-4k-sr10012418.png");
+   
+}
+.container{
+    box-sizing: border-box;
+    font-family: sans-serif;
+    width: 500px;
+    height: 400px;
+    background-color: #fff;
+    margin: auto;
+    margin-top: 105px;
+    padding: 25px 0px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px gray;
+}
+.prof{
+    width: 150px;
+    display: block;
+    margin: auto;
+    border: 2px dotted rgb(90, 90, 90);
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px black;
+  
+}
+.desc{
+    text-align: center;
+    color: rgb(120, 120, 120);
+}
+.title{
+    padding-top: 20px;
+   margin: auto;
+    font-size: 20px;
+    width: 151px;
+    color: rgb(76, 76, 76);
+    border-bottom: 5px solid rgb(222, 184, 255);;
+}
+.social{
+height:60px;
+background-color: blanchedalmond;
+text-align: center;
+}
+.social img{
+    margin: 5px;
+}
